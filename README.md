@@ -9,3 +9,5 @@ The fully-connected (FC) layer is an essential component both of representation 
 * A batch-by-batch learning strategy for HSNN to process large scale datasets. The learning mode for HSNN can be switched from one-batch to batch-by-batch flexibly, only with the consideration of input data size.
 
 * A multimodal encoding algorithm. It is to boost  the  classification  performance  and to  overcome  the  bias  that may  incur  in  single-modal  networks  due  to  one-sided  feature encoding.
+
+## Learning Structure:
