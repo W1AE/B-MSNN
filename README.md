@@ -14,6 +14,8 @@ The fully-connected (FC) layer is an essential component both of representation 
 
 <img src="https://github.com/1027051515/HSNN/raw/master/FIG1.jpg" width="1200" height="300" />
 
+<img src="https://github.com/1027051515/HSNN/raw/master/FIG2.jpg" width="1200" height="300" />
+
 ## Downloads:
 ### Scene-15
 * Scene-15 dataset: [Scene-15](http://elm-lang.org/)
