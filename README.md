@@ -14,17 +14,17 @@ The fully-connected (FC) layer is an essential component both of representation 
 
 ## Downloads:
 ### Scene-15
-* Fine-tuned VGG-16 features: [Elmlang](http://elm-lang.org/)
-* Fine-tuned ResNet-50 features: [Elmlang](http://elm-lang.org/)
-* Fine-tuned InceptionNet-v3 features: [Elmlang](http://elm-lang.org/)
+* Fine-tuned VGG-16 features: [VGG16_S15](http://elm-lang.org/)
+* Fine-tuned ResNet-50 features: [Res50_S15](http://elm-lang.org/)
+* Fine-tuned InceptionNet-v3 features: [Incv3_S15](http://elm-lang.org/)
 * Source code for Scene-15: 
 ### Caltech-101
-* Fine-tuned VGG-16 features: [Elmlang](http://elm-lang.org/)
-* Fine-tuned ResNet-50 features: [Elmlang](http://elm-lang.org/)
-* Fine-tuned InceptionNet-v3 features: [Elmlang](http://elm-lang.org/)
+* Fine-tuned VGG-16 features: [VGG16_C101](http://elm-lang.org/)
+* Fine-tuned ResNet-50 features: [Res50_C101](http://elm-lang.org/)
+* Fine-tuned InceptionNet-v3 features: [Incv3_C101](http://elm-lang.org/)
 * Source code for Caltech-101:
 ### Caltech-256
-* Fine-tuned VGG-16 features: [Elmlang](http://elm-lang.org/)
-* Fine-tuned ResNet-50 features: [Elmlang](http://elm-lang.org/)
-* Fine-tuned InceptionNet-v3 features: [Elmlang](http://elm-lang.org/)
+* Fine-tuned VGG-16 features: [VGG16_C256](http://elm-lang.org/)
+* Fine-tuned ResNet-50 features: [Res50_C256](http://elm-lang.org/)
+* Fine-tuned InceptionNet-v3 features: [Incv3_C256](http://elm-lang.org/)
 * Source code for Caltech-256: 
