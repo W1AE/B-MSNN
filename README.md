@@ -12,7 +12,7 @@ The fully-connected (FC) layer is an essential component both of representation 
 
 ## Learning Structure:
 
-<img src="https://zos.alipayobjects.com/rmsportal/psagSCVHOKQVqqNjjMdf.jpg" width="200" height="200" />
+<img src="https://github.com/1027051515/HSNN/raw/master/fig_1NNNG.pdf" width="200" height="200" />
 
 ## Downloads:
 ### Scene-15
