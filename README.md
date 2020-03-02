@@ -21,7 +21,7 @@ The fully-connected (FC) layer is an essential component both of representation 
 * Scene-15 dataset: [Scene-15](http://elm-lang.org/)
 * Fine-tuned VGG-16 features: [VGG16_S15](http://elm-lang.org/)
 * Fine-tuned ResNet-50 features: [Res50_S15](http://elm-lang.org/)
-* Fine-tuned InceptionNet-v3 features: [Incv3_S15](http://elm-lang.org/)
+* Fine-tuned InceptionNet-v3 features: [Incv3_S15](https://drive.google.com/open?id=16Z_fdS2i_qF1dxC6at1795NhV7m6OBPl)
 * Source code for Scene-15: The file will be made public after acceptance of the manuscript (if decided so).
 ### Caltech-101
 * Caltech-101 dataset: [Caltech-101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/#Download)
