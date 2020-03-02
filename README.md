@@ -11,3 +11,9 @@ The fully-connected (FC) layer is an essential component both of representation 
 * A multimodal encoding algorithm. It is to boost  the  classification  performance  and to  overcome  the  bias  that may  incur  in  single-modal  networks  due  to  one-sided  feature encoding.
 
 ## Learning Structure:
+
+## Downloads:
+### Scene-15
+* Fine-tuned VGG-16 features: [Elmlang](http://elm-lang.org/)
+* Fine-tuned ResNet-50 features: [Elmlang](http://elm-lang.org/)
+* Fine-tuned InceptionNet-v3 features: [Elmlang](http://elm-lang.org/)
