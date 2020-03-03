@@ -34,3 +34,4 @@ The fully-connected (FC) layer is an essential component both of representation 
 * Fine-tuned ResNet-50 features: [Res50_C256](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
 * Fine-tuned InceptionNet-v3 features: [Incv3_C256](https://drive.google.com/open?id=1XIHncWSHRH97TDtxCj2-QvR2KjubMXNh)
 * Source code for Caltech-256: The file will be made public after acceptance of the manuscript (if decided so).
+
