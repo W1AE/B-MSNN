@@ -16,6 +16,10 @@ The fully-connected neural networks (FCNNs) are the simplest type of networks wh
 
 <img src="https://github.com/1027051515/HSNN/raw/master/FIG2.jpg" width="1200" height="300" />
 
+## Related Works:
+* [1] Wandong Zhang, Q.M.Jonathan Wu, and Yimin Yang. A Width-growth Model with Subnetwork Nodes and Refinement Structure for Representation Learning and Image Classification. *IEEE Transactions on Industrial Informatics*, 2020, [[link](https://ieeexplore.ieee.org/abstract/document/9050859)]
+* [2] Wandong Zhang, Q.M.Jonathan Wu, and Yimin Yang. Multimodal feature reinforcement framework using Moore-Penrose Inverse for big data analysis. *IEEE Transactions on Neural Networks and Learning Systems*, Third round review. [[code](https://github.com/W1AE/B-MSNN)]
+
 ## Downloads:
 ### Scene-15
 * Fine-tuned VGG-16 features: [VGG16_S15](https://drive.google.com/open?id=16Jhzxp2zwXyYXpAEaP_2Pjwxki6HeRZB)
